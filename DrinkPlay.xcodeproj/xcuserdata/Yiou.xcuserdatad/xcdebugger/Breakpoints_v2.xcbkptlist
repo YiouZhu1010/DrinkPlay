@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrinkPlay/AppDelegate.swift"
+            timestampString = "545199891.468421"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.AppDelegate.__deallocating_deinit"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/AppDelegate.swift"
+                  timestampString = "544167552.9037859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.AppDelegate.__allocating_init() -&gt; DrinkPlay.AppDelegate"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/AppDelegate.swift"
+                  timestampString = "544167552.908258"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.AppDelegate.init() -&gt; DrinkPlay.AppDelegate"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/AppDelegate.swift"
+                  timestampString = "544167552.915014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/AppDelegate.swift"
+                  timestampString = "544167552.919525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrinkPlay/UpdatePage.swift"
+            timestampString = "545264619.6075391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.UpdatePage.__deallocating_deinit"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/UpdatePage.swift"
+                  timestampString = "544301740.832131"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.UpdatePage.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DrinkPlay.UpdatePage"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/UpdatePage.swift"
+                  timestampString = "544301740.836621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.UpdatePage.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DrinkPlay.UpdatePage"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/UpdatePage.swift"
+                  timestampString = "544301740.840567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.UpdatePage.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DrinkPlay.UpdatePage&gt;"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/UpdatePage.swift"
+                  timestampString = "544301740.843938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrinkPlay.UpdatePage.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DrinkPlay.UpdatePage&gt;"
+                  moduleName = "DrinkPlay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yiou/Desktop/Github/DrinkPlay-master/DrinkPlay/UpdatePage.swift"
+                  timestampString = "544301740.84702"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrinkPlay/DrunkTest.swift"
+            timestampString = "545264619.607602"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "secondQuestion(ans:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrinkPlay/DrunkTest.swift"
+            timestampString = "545264619.607664"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "secondQuestion(ans:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrinkPlay/DrunkTest.swift"
+            timestampString = "545264619.607736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "fourthQuestion(ans:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
